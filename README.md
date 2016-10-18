@@ -1,9 +1,9 @@
-jekyll-gulp-sass-browser-sync
+jekyll-gulp-base
 =============================
 
-A starter project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
+A starter project including full setup for Jekyll, GulpJS, SASS &amp; BrowserSync
 
-Here's a 1.5min [screencast](http://quick.as/pvrslgx) showing what you get.
+<!-- Here's a 1.5min [screencast](http://quick.as/pvrslgx) showing what you get. -->
 
 And here's a GIF showing the CSS injecting.
 
@@ -26,7 +26,7 @@ To use this starter project, you'll need the following things installed on your 
 
 **development mode**
 
-This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting etc etc.
+This will give you file watching, browser sync, auto-rebuild, CSS injecting etc etc.
 
 ```shell
 $ gulp

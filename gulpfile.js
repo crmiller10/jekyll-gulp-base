@@ -66,7 +66,7 @@ gulp.task('sass', function () {
 gulp.task('main_js', function() {
     gulp.src([
         'bower_components/jquery/dist/jquery.min.js',
-        'bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js',
+        'bower_components/bootstrap/dist/js/bootstrap.min.js',
         'app/js/main.js'
         ])
         .pipe(plumber())
