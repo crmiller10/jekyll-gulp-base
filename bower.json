@@ -1,0 +1,28 @@
+{
+  "name": "browser-sync-jekyll",
+  "description": "A starter project including full setup for Jekyll, GulpJS, SASS & BrowserSync",
+  "main": "gulpfile.js",
+  "authors": [
+    "Collin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "homepage": "",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "bootstrap": "v4.0.0-alpha.2",
+    "font-awesome": "fontawesome#^4.6.3",
+    "animate.css": "animate-css#^3.5.2"
+  }
+}
