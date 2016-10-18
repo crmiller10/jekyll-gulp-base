@@ -22,7 +22,6 @@
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "bootstrap": "v4.0.0-alpha.2",
-    "font-awesome": "fontawesome#^4.6.3",
-    "animate.css": "animate-css#^3.5.2"
+    "font-awesome": "fontawesome#^4.6.3"
   }
 }
